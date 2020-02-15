@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b14fd1b-08c6-41ab-a99f-9afb4c81e2b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/AdminLogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/AdminLogIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/AdminLogIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/AdminLogIn.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lecture 8 - BDDFundTransfer - TNG" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -48,7 +50,24 @@
       <recent name="Utils" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.AdminLogInPositive.adminLogIn">
+  <component name="RunManager" selected="Cucumber java.Feature: AdminLogin">
+    <configuration name="Feature: AdminLogin" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/AdminLogin.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.cli.Main" />
+      <module name="AutomationGitPageObjectModel" />
+      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: AdminLogin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AdminLogInNegative.adminLogInNegative" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationGitPageObjectModel" />
       <extension name="coverage">
@@ -87,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber java.Feature: AdminLogin" />
         <item itemvalue="TestNG.AdminLogInPositive.adminLogIn" />
         <item itemvalue="TestNG.AdminLogInNegative.adminLogInNegative" />
       </list>
@@ -115,36 +135,64 @@
       <option name="presentableId" value="Default" />
       <updated>1581772923166</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add comment for positive log in">
+      <created>1581781655856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581781655856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add comment for positive log in" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add comment for positive log in" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581777068458">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581781688557">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1581777068458" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1581781688557" />
     <state x="413" y="144" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1581777424925">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="144" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1581777424925" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1581779768898">
+    <state x="223" y="0" key="CommitChangelistDialog2" timestamp="1581781653888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581779768898" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1581779768898">
+    <state x="223" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581781653888" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1581798497948">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581779768898" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1581779768898">
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581798497948" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1581781691339">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581779768898" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1581779768898">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581781691339" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1581781691339">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581779768898" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581781691339" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1581781691339">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581781691339" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1581781691339">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581781691339" />
     <state x="499" y="144" key="chooseDestDirectoryDialog" timestamp="1581773318817">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="499" y="144" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1581773318817" />
+    <state x="65" y="68" key="new project wizard" timestamp="1581799485980">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="68" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1581799485980" />
+    <state x="435" y="294" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1581799186265">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="294" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1581799186265" />
   </component>
 </project>
