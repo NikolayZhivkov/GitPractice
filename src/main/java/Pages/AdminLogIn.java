@@ -4,6 +4,9 @@ import Utils.Browser;
 import org.openqa.selenium.By;
 
 public class AdminLogIn {
+    /**
+     * Positive log in
+     */
 
     private static final By LOC_USERNAME = By.id("input-username");
     private static final By LOC_PASSWORD = By.id("input-password");
